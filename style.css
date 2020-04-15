@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1000px;
+    width: 300px;
+    background: rgb(104, 226, 235);
+}
+
+
+.container{
+    background:#fff;
+    width: 500px;
+    height: 500px;
+    border: 5px solid #ccc;
+    text-align: center;
+    margin:150px 0px 0px 500px;
+    border-radius: 10px;
+    
+
+}
+
+.main h5 {
+    font-size: 40px;
+    padding: 50px 0px 20px 0px;
+} 
+form .sub1 input[type = email]{
+    width: 70%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 50px;
+    margin-top: 20px;
+    
+  }
+  form .sub2 input[type = password]{
+    width: 70%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 50px;
+  }
+  form .sub3  button{
+      background: rgb(60, 135, 247);
+      padding: 20px 0px 20px 0px;
+      width: 70%;
+      border-radius: 5px;
+      margin: 5px;
+  }
+ 
+.sub {
+    margin: 50px 0px 10px 0px;
+}
+
+ .sub a{
+    margin: 0px 0px 10px 0px;
+    text-decoration: none;
+    color: blue;
+}
+
+.sub-2 a{
+    text-decoration: none;
+    color: blue;
+}
